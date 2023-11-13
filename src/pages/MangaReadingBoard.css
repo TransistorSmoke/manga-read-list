@@ -1,0 +1,5 @@
+.board-wrapper {
+  border: 2px solid red;
+  display: flex;
+  justify-content: center;
+}

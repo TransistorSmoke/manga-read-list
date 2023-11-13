@@ -1,0 +1,133 @@
+{
+  "manga": [
+    {
+      "id": 1,
+      "title": "One Piece",
+      "author": "Eiichiro Oda",
+      "yearReleased": 2003,
+      "yearCompleted": 2014,
+      "readingBacklog": false,
+      "readingStatusId": 3
+    },
+    {
+      "id": 2,
+      "title": "Naruto Shippuden",
+      "author": "Masashi Kishimoto",
+      "yearReleased": 2003,
+      "yearCompleted": 2014,
+      "finishedReading": true,
+      "readingBacklog": false,
+      "readingStatusId": 3
+    },
+    {
+      "id": 3,
+      "title": "Bleach",
+      "author": "Kubo Tite",
+      "yearReleased": 2003,
+      "yearCompleted": 2014,
+      "finishedReading": true,
+      "readingBacklog": false,
+      "readingStatusId": 3
+    },
+    {
+      "id": 4,
+      "title": "Ruruoni Kenshin",
+      "author": "Watsuki Nobuhiro",
+      "yearReleased": 2003,
+      "yearCompleted": 2014,
+      "finishedReading": true,
+      "readingBacklog": false,
+      "readingStatusId": 3
+    },
+    {
+      "id": 5,
+      "title": "Flame Of Recca",
+      "author": "Nobuyuki Anzai",
+      "yearReleased": 2003,
+      "yearCompleted": 2014,
+      "finishedReading": true,
+      "readingBacklog": false,
+      "readingStatusId": 3
+    },
+    {
+      "id": 6,
+      "title": "Slam Dunk",
+      "author": "Takehiko Inoue",
+      "yearReleased": 2003,
+      "yearCompleted": 2014,
+      "finishedReading": true,
+      "readingBacklog": false,
+      "readingStatusId": 3
+    },
+    {
+      "id": 7,
+      "title": "Fairy Tail",
+      "author": "Hiro Mashima",
+      "yearReleased": 2003,
+      "yearCompleted": 2014,
+      "finishedReading": true,
+      "readingBacklog": false,
+      "readingStatusId": 2
+    },
+    {
+      "id": 8,
+      "title": "Rave Master",
+      "author": "Hiro Mashima",
+      "yearReleased": 2003,
+      "yearCompleted": 2014,
+      "finishedReading": true,
+      "readingBacklog": false,
+      "readingStatusId": 1
+    },
+    {
+      "id": 9,
+      "title": "7 Deadly Sins",
+      "author": "Nakaba Suzuki",
+      "yearReleased": 2003,
+      "yearCompleted": 2014,
+      "finishedReading": true,
+      "readingBacklog": false,
+      "readingStatusId": 1
+    },
+    {
+      "id": 10,
+      "title": "Shaman King",
+      "author": "Hiroyuki Takei",
+      "yearReleased": 2003,
+      "yearCompleted": 2014,
+      "finishedReading": true,
+      "readingBacklog": false,
+      "readingStatusId": 2
+    },
+    {
+      "id": 11,
+      "title": "Demon Slayer (Kimetsu No Yaiba)",
+      "author": "Koyoharu Gotouge",
+      "yearReleased": 2003,
+      "yearCompleted": 2014,
+      "finishedReading": true,
+      "readingBacklog": false,
+      "readingStatusId": 1
+    },
+    {
+      "id": 12,
+      "title": "Attack On Titan",
+      "author": "Hajime Isayama",
+      "yearReleased": 2003,
+      "yearCompleted": 2014,
+      "finishedReading": true,
+      "readingBacklog": false,
+      "readingStatusId": 1
+    },
+    {
+      "id": 13,
+      "title": "My Hero Academia",
+      "author": "Kohei Horikoshi",
+      "yearReleased": 2003,
+      "yearCompleted": 2014,
+      "finishedReading": true,
+      "readingBacklog": false,
+      "readingStatusId": 1
+    }
+  ]
+}
