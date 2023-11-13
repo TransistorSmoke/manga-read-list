@@ -1,3 +1,5 @@
+Reading status for each manga that I used to have
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
