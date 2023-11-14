@@ -1,7 +1,6 @@
 import { useEffect, useState } from 'react';
 import useFetchData from '../hooks/useFetchData';
 import ReadingStatusColumn from '../components/ReadingStatusColumn/ReadingStatusColumn';
-import './MangaReadingBoard.css'
 
 
 const readingStatusColumnList = [
@@ -41,7 +40,7 @@ const MangaReadingBoard = () => {
   }
 
   return (
-    <div className="board-wrapper">
+    <div className="flex justify-center mt-16">
 
       {
         readingStatusColumnList.map(column => (

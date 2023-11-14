@@ -1,12 +1,13 @@
 import Manga from '../Manga/Manga';
-import './ReadingStatusColumn.css';
 
 const ReadingStatusColumn = ({columnId, title, loading, error, mangaList, onDragStart, onDragOver, onDrop}) => {
   return (
-    <div className="status-col-wrapper" onDragOver={onDragOver} onDrop={event => onDrop(event, columnId)}>
+    <div className="w-80 mx-1 border border-slate-100 bg-stone-200 rounded-lg" onDragOver={onDragOver} onDrop={event => onDrop(event, columnId)}>
 
+      <div className='bg-slate-700 p-1'>
 
-        <h1>{title}</h1>
+        <h1 className= 'tracking-wider text-slate-200 uppercase text-l font-bold text-center py-2'>{title}</h1>
+      </div>
         {
           loading || error ? (
             <span>{error || "Loading..."}</span>
