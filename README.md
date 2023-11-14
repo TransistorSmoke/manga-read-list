@@ -1,4 +1,5 @@
-Reading status for each manga that I used to have
+Reading status for each manga that I used to have.
+[manga-read-list-board.netlify.app]manga-read-list-board.netlify.app
 
 # Getting Started with Create React App
 
